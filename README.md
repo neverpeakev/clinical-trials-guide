@@ -86,3 +86,9 @@ This guide is released under [CC BY 4.0](https://creativecommons.org/licenses/by
 
 ---
 *Maintained by [HelloStudys](https://hellostudys.com) — Helping patients find clinical trials since 2025.*
+
+## Related Projects
+
+- [awesome-clinical-trials](https://github.com/neverpeakev/awesome-clinical-trials) — Curated list of clinical trial resources
+- [clinical-trials-api](https://github.com/neverpeakev/clinical-trials-api) — JavaScript API client for ClinicalTrials.gov
+- [clinical-trials-open-data](https://github.com/neverpeakev/clinical-trials-open-data) — Open datasets and Python tools
